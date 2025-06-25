@@ -9,5 +9,5 @@ Steps:
 Outcome: Successfully hosted a static website.
 **Screenshots**:
 ![S3 Console](s3-bucket.png)
-![Website](s3-static-website-output.png)
 ![file](s3-index-html.png)
+![Website](s3-static-website-output.png)
