@@ -7,3 +7,7 @@ Steps:
 - Enabled static website hosting and set public access via bucket policy.
 - Verified page at http://vsethi44bucket.s3-website-us-east-1.amazonaws.com.
 Outcome: Successfully hosted a static website.
+**Screenshots**:
+![S3 Console](s3-bucket.png)
+![Website](s3-static-website-output.png)
+![file](s3-index.html)
