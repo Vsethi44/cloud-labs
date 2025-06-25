@@ -3,3 +3,4 @@ Welcome to my AWS labs, showcasing skills for entry-level cloud support roles. T
 Labs for AWS cloud support roles.
 - [Lab 1: EC2 Web Server](ec2-web-server.md)
 - [Lab 2: S3 Static Website](s3-static-website.md)
+- [Lab 3: CloudWatch Monitoring](cloudwatch-monitoring.md)
