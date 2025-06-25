@@ -7,3 +7,6 @@ Steps:
 - Installed Apache and created a "Hello World" page at /var/www/html/index.html.
 - Verified page access via public IP in a browser.
 Outcome: Hosted a static web page successfully.
+**Screenshots**:
+![EC2 Console](ec2-console.png)
+![Web Page](ec2-webpage.png)
