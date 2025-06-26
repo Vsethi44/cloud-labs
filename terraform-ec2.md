@@ -4,5 +4,6 @@ Tools: Terraform, AWS EC2
 Steps:
 - Installed Terraform and configured AWS credentials.
 - Created main.tf to launch a t2.micro EC2 instance in us-east-1.
-- Ran terraform apply to deploy, verified in AWS Console.
+Ran' terraform apply' to deploy and verified in the AWS Console.
 Outcome: Successfully automated EC2 setup.
+**Screenshots**: ![Terraform Apply](terraform apply started.png)(terraform -ec2 console)(terraform apply executed)![EC2 Console](terraform-ec2.png)
