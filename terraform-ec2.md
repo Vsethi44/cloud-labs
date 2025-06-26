@@ -8,4 +8,4 @@ Ran' terraform apply' to deploy and verified in the AWS Console.
 Outcome: Successfully automated EC2 setup.
 
 **Screenshots**:
-  
+  (terraform-apply-executed.png)
