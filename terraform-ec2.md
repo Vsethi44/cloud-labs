@@ -6,5 +6,4 @@ Steps:
 - Created main.tf to launch a t2.micro EC2 instance in us-east-1.
 Ran' terraform apply' to deploy and verified in the AWS Console.
 Outcome: Successfully automated EC2 setup.
-
-**Screenshots**:![terraform apply](terraform-apply-started.png)
+**Screenshots**: ![terraform apply](terraform-apply-started.png)
