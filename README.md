@@ -5,3 +5,4 @@ Labs for AWS cloud support roles.
 - [Lab 2: S3 Static Website](lab2-s3/s3-static-website.md)
 - [Lab 3: CloudWatch Monitoring](lab3-cloudwatch/cloudwatch-monitoring.md)
 - [Lab 4: Automate EC2 Setup with Terraform](lab4-terraform/terraform-ec2.md)
+- [Lab 5: IAM Role for EC2](lab5-iam/iam-role.md)
