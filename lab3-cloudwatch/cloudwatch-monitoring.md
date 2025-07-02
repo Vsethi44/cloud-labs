@@ -34,5 +34,7 @@ This lab focuses on monitoring EC2 instance performance using AWS CloudWatch, a 
 Successfully monitored EC2 CPU usage with a CloudWatch alarm, demonstrating skills in performance monitoring and alert setup.
 
 **Screenshots**:
+
 ![Alarm](CloudWatch-Alarm.png) Displays alarm configuration and status.
+
 ![CPU Graph](CloudWatch-CPU-Metric-Graph.png) Shows CPUUtilization metrics.
