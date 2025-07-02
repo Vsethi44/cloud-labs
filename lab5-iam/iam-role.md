@@ -29,7 +29,7 @@ This lab configures an IAM role to allow an EC2 instance to access an S3 bucket 
    - Connected to EC2 via EC2 Instance Connect.
    - Ran:
      ```
-     aws s3 ls s3://vsethi44-iam-lab-<random>
+     aws s3 ls s3://vsethi44-iam-lab-myawsbucket
      ```
    - Confirmed output listed `test.txt`.
 6. Cleaned Up:
