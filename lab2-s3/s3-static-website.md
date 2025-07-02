@@ -59,9 +59,11 @@ Successfully hosted a publicly accessible static website on S3, demonstrating sk
 **Screenshots**:
 
 ![S3 Console](s3-bucket.png)
+
 Shows bucket settings and uploaded file.
 
 ![file](s3-index-html.png)
 
 ![Website](s3-static-website-output.png)
+
 Displays the website in a browser.
